@@ -1,6 +1,11 @@
+portrfolio website  https://johnkimaiyo.vercel.app/
+
 Inventory Control Management Database Project
 
 Objects
+
+
+
 1.Whch Year Had The highest Sales
 
 2. How was the weather during the yera of highest sales
